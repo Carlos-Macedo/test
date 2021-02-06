@@ -1,0 +1,40 @@
+body {
+  font-family: 'Source Sans Pro', sans-serif;
+  margin: 0;
+}
+
+.hero-image {
+  object-fit: cover;
+
+}
+
+.header {
+  background: white;
+  color: white;
+  display: flex;
+  height: 70px;
+  align-items: center;  
+  justify-content: space-between
+}
+
+.footer {
+  color: white;
+  background-color: white;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 10px 15px;
+}
+
+.container {
+  width: 1000px;
+  margin: 0 auto;
+  display: inherit;
+  justify-content: inherit;
+  align-items: inherit;
+  height: inherit;
+  flex-wrap: inherit;
+}
+.text{
+  color: black;
+}
