@@ -9,7 +9,7 @@ body {
 }
 
 .header {
-  background: red;
+  background: white;
   color: white;
   display: flex;
   height: 70px;
@@ -18,7 +18,7 @@ body {
 }
 
 .footer {
-  color: white;
+  color: red;
   background-color: white;
   display: flex;
   align-items: center;
